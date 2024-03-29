@@ -1,3 +1,3 @@
-[submodule "drivers/misc/kprofiles"]
-	path = drivers/misc/kprofiles
+[submodule "drivers/misc/kprofile"]
+	path = drivers/misc/kprofile
 	url = https://github.com/dakkshesh07/Kprofiles.git
